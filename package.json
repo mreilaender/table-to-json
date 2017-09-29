@@ -31,11 +31,5 @@
       "type": "MIT",
       "url": "https://github.com/lightswitch05/table-to-json/blob/master/MIT-LICENSE"
     }
-  ],
-  "dependencies": {
-    "is-electron": "^2.1.0",
-    "is-node": "^1.0.2",
-    "jquery": "^3.2.1",
-    "jquery-node": "^0.3.0"
-  }
+  ]
 }
