@@ -26,6 +26,11 @@
     "grunt-contrib-clean": "~0.6.0",
     "grunt-contrib-watch": "~0.6.1"
   },
+  "dependencies": {
+    "is-electron": "^2.1.0",
+    "is-node": "^1.0.2",
+    "jquery-node": "^0.3.0"
+  },
   "licenses": [
     {
       "type": "MIT",
